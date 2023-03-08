@@ -1,0 +1,6 @@
+odoo16/postgresql/
+odoo16/etc/odoo-server.log
+odoo16/etc/addons/
+odoo16/etc/sessions/
+odoo16/etc/filestore/
+__pycache__/
